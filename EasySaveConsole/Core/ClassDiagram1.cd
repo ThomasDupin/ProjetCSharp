@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
+<ClassDiagram /> 
+=======
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Core.Model.Business.dailylog">
+    <Position X="7.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Business\dailylog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Core.Model.Business.Save" BaseTypeListCollapsed="true">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAgAAAAAAAAAEAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Model\Business\save.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Core.Model.Business.savestate">
+    <Position X="9.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Business\savestate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Core.Model.Business.savestateon">
+    <Position X="6" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Business\savestateon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Core.Model.Service.SaveStrategy.CompleteSave">
+    <Position X="1.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Model\Service\SaveStrategy\CompleteSave.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Core.Model.Service.SaveStrategy.DifferentialSave">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Model\Service\SaveStrategy\DifferentialSave.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Core.Model.Service.SaveStrategy.Strategy">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Model\Service\SaveStrategy\Strategy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Core.Model.Service.StrategySave.ContextSave">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Service\ContextSave.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Core.Model.Service.dailylogservice">
+    <Position X="9.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Service\dailylogservice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Core.Model.Service.SaveService">
+    <Position X="7.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Service\saveservice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Core.Model.Service.savestateservice">
+    <Position X="7.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Service\savestateservice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Core.Model.Service.StateFile">
+    <Position X="9.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAIAAAAAAAAAAAAABAAAAAAEAAAAACABAAQA=</HashCode>
+      <FileName>Model\Service\StateFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Core.Model.Business.Isave">
+    <Position X="6" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Business\Isave.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
+>>>>>>> 3169a758955c270f0666667addb881dfca3c13e6

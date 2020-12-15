@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pK2EB1hLXNzljnasYHBbXEZOxA+6WaV+pvrvfSe0/41cYUMDcrJfxBg5iL2D+PCmphqpf6SapGgPZpHOu+y4jw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thoma\\PROJETC#\\EasySaveConsole\\EasySaveConsole\\EasySaveApp\\EasySaveApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thoma\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "TypeOfSave": "Full",
+    "name": "test",
+    "SourceDirectory": "C:\\Users\\Joachim\\Documents\\Cesi\\BDE\\Logo",
+    "DestinationDirectory": "C:\\Users\\Joachim\\Documents\\Cesi\\BDE\\test\\",
+    "LastCompleteDirectory": ""
+  },
+  {
+    "TypeOfSave": "Full",
+    "name": "testpb",
+    "SourceDirectory": "C:\\Users\\Joachim\\Documents\\Cesi\\BDE\\Pull",
+    "DestinationDirectory": "C:\\Users\\Joachim\\Documents\\Cesi\\BDE\\test\\",
+    "LastCompleteDirectory": ""
+  },
+  {
+    "TypeOfSave": "Full",
+    "name": "file1",
+    "SourceDirectory": "D:\\test",
+    "DestinationDirectory": "D:\\dossier_sauvegarde\\",
+    "LastCompleteDirectory": ""
+  },
+  {
+    "TypeOfSave": "Full",
+    "name": "file2",
+    "SourceDirectory": "D:\\MyAsset",
+    "DestinationDirectory": "D:\\dossier_sauvegarde\\",
+    "LastCompleteDirectory": ""
+  },
+  {
+    "TypeOfSave": "Full",
+    "name": "dxtfcvgbh",
+    "SourceDirectory": "D:\\SteamLibrary\\steamapps\\common\\F1 2020",
+    "DestinationDirectory": "D:\\kul\\",
+    "LastCompleteDirectory": ""
+  },
+  {
+    "TypeOfSave": "Full",
+    "name": "dsq< ",
+    "SourceDirectory": "D:\\A2",
+    "DestinationDirectory": "D:\\kul\\",
+    "LastCompleteDirectory": ""
+  }
+]
